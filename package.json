@@ -1,0 +1,23 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex125-2033/Udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex125-2033/Udemy/issues"
+  },
+  "homepage": "https://github.com/Alex125-2033/Udemy#readme",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "webpack-cli": "^6.0.1"
+  }
+}
